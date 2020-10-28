@@ -1,3 +1,20 @@
+Author: Mahbub, Saabah B., Tomczyk, Jakub and Goldys, Ewa M. 
+Year: 2020 
+Title: GUI_Visual version 1.1 
+Short Title: GUI_Visual version 1.1 
+DOI: 10.5281/zenodo.4146738 
+
+
+>>AIM:
+
+All the hyperspectral images were stored in a special Matlab file data file (*.mat). As such, a custom made Graphical User Interface (GUI Visualization ver 1.0) has been developed to inspect the taken images and to extract other information. For details, please check the instruction file. 
+
+
+>>You can cite this software in this format
+
+Mahbub, S.B., J. Tomczyk, and E.M. Goldys, GUI_Visual version 1.1. (2020), DOI: 10.5281/zenodo.4146738, URL: https://github.com/saabah/GUI_Visual.git
+
+
 GUI_Preparation Executable
 
 1. Prerequisites for Deployment 
