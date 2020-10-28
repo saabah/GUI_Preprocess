@@ -1,21 +1,24 @@
 Author: Mahbub, Saabah B., Tomczyk, Jakub and Goldys, Ewa M. 
 Year: 2020 
-Title: GUI_Visual version 1.1 
-Short Title: GUI_Visual version 1.1 
-DOI: 10.5281/zenodo.4146738 
+Title:GUI_Preprocess version 3.12 
+Short Title:GUI_Preprocess version 3.12 
+DOI:10.5281/zenodo.4146747 
+URL:https://github.com/saabah/GUI_Preprocess.git 
 
 
 >>AIM:
 
-All the hyperspectral images were stored in a special Matlab file data file (*.mat). As such, a custom made Graphical User Interface (GUI Visualization ver 1.0) has been developed to inspect the taken images and to extract other information. For details, please check the instruction file. 
+This GUI actually helps to preprocess the hyperspectral data with respect to supporting reference images. In each experiment, a set of reference images (e.g. calibration, water images, and dark images) is taken using the hyperspectral microscope system to pre-process the sample images. The pre-processing steps include image equalisation, removing undetectable pixels and outliers (spikes), removing background fluorescence and flattening the images. GUI_Preparation preprocess the data by removing the undetectable spikes and dips, removing the background images and flattening the image.
+
+For details, please check the instruction file. 
 
 
 >>You can cite this software in this format
 
-Mahbub, S.B., J. Tomczyk, and E.M. Goldys, GUI_Visual version 1.1. (2020), DOI: 10.5281/zenodo.4146738, URL: https://github.com/saabah/GUI_Visual.git
+Mahbub, S.B., J. Tomczyk, and E.M. Goldys, GUI_Visual version 1.1. (2020), DOI:10.5281/zenodo.4146747, URL:https://github.com/saabah/GUI_Preprocess.git 
 
 
-GUI_Preparation Executable
+>>> GUI_Preparation Executable
 
 1. Prerequisites for Deployment 
 
