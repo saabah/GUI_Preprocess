@@ -15,7 +15,7 @@ For details, please check the instruction file.
 
 >>You can cite this software in this format
 
-Mahbub, S.B., J. Tomczyk, and E.M. Goldys, GUI_Visual version 1.1. (2020), DOI:10.5281/zenodo.4146747, URL:https://github.com/saabah/GUI_Preprocess.git 
+Mahbub, S.B., J. Tomczyk, and E.M. Goldys, GUI_Preprocess version 3.12 (2020), DOI:10.5281/zenodo.4146747, URL:https://github.com/saabah/GUI_Preprocess.git 
 
 
 >>> GUI_Preparation Executable
